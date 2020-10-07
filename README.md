@@ -1,2 +1,2 @@
 # dash_fft
-real time FFT with dash/plotly
+real-time FFT with dash/plotly
